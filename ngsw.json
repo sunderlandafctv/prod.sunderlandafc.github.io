@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1578635345795,
+  "timestamp": 1578965592091,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -8,16 +8,16 @@
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/5.b45d976cc49e8bfd40cd.js",
-        "/6.63797291ab33ba1a5f3b.js",
-        "/7.3ebbdfa71c7b0ddd5b70.js",
-        "/8.7ae69fd91b9e06c32144.js",
+        "/5.10bcba490ba0ec31a167.js",
+        "/6.c3bd312ea266db5717b0.js",
+        "/7.c5c30faf5eaf72a12d79.js",
+        "/8.3f6428704c2ebd0b3523.js",
         "/es2015-polyfills.bda95d5896422d031328.js",
         "/favicon.ico",
         "/index.html",
-        "/main.521c77f04e1adbfcc380.js",
+        "/main.502d808365a12421fb6c.js",
         "/polyfills.3779d652866572142f03.js",
-        "/runtime.783c3c07fbbac482b614.js",
+        "/runtime.c8833e462b2b0c12478b.js",
         "/styles.67e0529f9977f729b65d.css"
       ],
       "patterns": []
@@ -362,11 +362,11 @@
     "/2.eeb30fc84e7126a95b84.webp": "d43c5db1deb02b5117fe76495aa69ffcd7784267",
     "/3.9e48515196b917471520.webp": "3202dcc25aa191e957e143a76711ab3d4cb92f0b",
     "/4.145378bef831f9b260a5.webp": "74bd373bd4cf2fe63c19c99e4f17b772186e410c",
-    "/5.b45d976cc49e8bfd40cd.js": "a7aca598b8e00dc47d1781af4fafe5f4c32f119e",
+    "/5.10bcba490ba0ec31a167.js": "5cbab98ba2fdbf2aec5c43f30f9b81d43e6190f7",
     "/5.bdfc4845fe35217bc0ac.webp": "38d5545a9020a8cc1186c8fbf13119d872729120",
-    "/6.63797291ab33ba1a5f3b.js": "06009ee46d476fadd2ce58b1b5c73383a863b7e3",
-    "/7.3ebbdfa71c7b0ddd5b70.js": "551a846faa86e3fff131868f7912e2a120b16cf1",
-    "/8.7ae69fd91b9e06c32144.js": "e7afe581e516d283553a51257e7920dcd603065b",
+    "/6.c3bd312ea266db5717b0.js": "235cd5c6ca62f7ebeb69fc3c3759cbe63206784a",
+    "/7.c5c30faf5eaf72a12d79.js": "1678dc5c01fa8a6ca463b75e6a866f34d888ba9b",
+    "/8.3f6428704c2ebd0b3523.js": "ce44a5283337ed600373adbcec934e5d1d405779",
     "/assets/Teamgroups/1950-1951.png": "24e35099beab3330547ef8f7e3827d4f8a083537",
     "/assets/Teamgroups/1950-1951.webp": "8c509c75b39abcd9075a1906073f2b8851505b5a",
     "/assets/Teamgroups/1951-1952.png": "f8e3ac3dec2033ab5292f6192e2c36a1f872b4d4",
@@ -688,11 +688,11 @@
     "/assets/playerprofiles/884.webp": "892850406e5881f25809973ebeb7497cc814e1e3",
     "/es2015-polyfills.bda95d5896422d031328.js": "1612fe8f7e8e0c856f0885ff179e93363c67834f",
     "/favicon.ico": "08a8f6cf2e29602f55c8f52e1d914c3a2eccb4ff",
-    "/index.html": "cc4f5cce6153076bbf3ac7640e9324fd554cbffa",
+    "/index.html": "152b363e33dc027ba99ba35b1de39ca6c6f80ceb",
     "/loader_iframe.cc4b2f0ac2af7f33d02e.png": "b036be0f052e3b3aff3861966c6d1103ab38ebc6",
-    "/main.521c77f04e1adbfcc380.js": "b7b37ce8ee8afe6641b6ba782483d4b191ccea26",
+    "/main.502d808365a12421fb6c.js": "3fba3862901f0cffca6de6ca7174d9826254415e",
     "/polyfills.3779d652866572142f03.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
-    "/runtime.783c3c07fbbac482b614.js": "b74a226f885d8d80284b67ce0712556bad12a0c1",
+    "/runtime.c8833e462b2b0c12478b.js": "f15e576ccb7779fa8e0c9fb53319bb3da8fb7805",
     "/styles.67e0529f9977f729b65d.css": "5df9d3530e09451a1677281bce9ab2d0cd94c8eb"
   },
   "navigationUrls": [
