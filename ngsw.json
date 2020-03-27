@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1579404598685,
+  "timestamp": 1585271797342,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -9,15 +9,15 @@
       "updateMode": "prefetch",
       "urls": [
         "/5.5e2dc9339368904a1f61.js",
-        "/6.c3bd312ea266db5717b0.js",
-        "/7.c5c30faf5eaf72a12d79.js",
-        "/8.3110db79b85ef218dc10.js",
-        "/es2015-polyfills.bda95d5896422d031328.js",
+        "/6.e1842a2974b5d4bb5357.js",
+        "/7.fc9315dee7b2ba2148c3.js",
+        "/8.f04b86346b6a86024d3b.js",
+        "/es2015-polyfills.8324bb31dd8aa5f2460c.js",
         "/favicon.ico",
         "/index.html",
-        "/main.695f944325d87eb2942c.js",
+        "/main.590086be5b78025b10d8.js",
         "/polyfills.3779d652866572142f03.js",
-        "/runtime.cc54a3fd26ca75a27433.js",
+        "/runtime.139d25209f6dc81d70e1.js",
         "/styles.67e0529f9977f729b65d.css"
       ],
       "patterns": []
@@ -364,9 +364,9 @@
     "/4.145378bef831f9b260a5.webp": "74bd373bd4cf2fe63c19c99e4f17b772186e410c",
     "/5.5e2dc9339368904a1f61.js": "09ac75ccf50d276367315ecc45ebf46582a8cbe5",
     "/5.bdfc4845fe35217bc0ac.webp": "38d5545a9020a8cc1186c8fbf13119d872729120",
-    "/6.c3bd312ea266db5717b0.js": "235cd5c6ca62f7ebeb69fc3c3759cbe63206784a",
-    "/7.c5c30faf5eaf72a12d79.js": "1678dc5c01fa8a6ca463b75e6a866f34d888ba9b",
-    "/8.3110db79b85ef218dc10.js": "ce44a5283337ed600373adbcec934e5d1d405779",
+    "/6.e1842a2974b5d4bb5357.js": "8b01529a5741b0939ffde9da31712c37f1f64e7a",
+    "/7.fc9315dee7b2ba2148c3.js": "0e6310dca4b4ae0538198c9c0f301e70cf5c3abb",
+    "/8.f04b86346b6a86024d3b.js": "ae188958ba9d9ae8fe3566100428fb75d44c6e37",
     "/assets/Teamgroups/1950-1951.png": "24e35099beab3330547ef8f7e3827d4f8a083537",
     "/assets/Teamgroups/1950-1951.webp": "8c509c75b39abcd9075a1906073f2b8851505b5a",
     "/assets/Teamgroups/1951-1952.png": "f8e3ac3dec2033ab5292f6192e2c36a1f872b4d4",
@@ -686,13 +686,13 @@
     "/assets/playerprofiles/841.webp": "f8cee4b50586e143d8e5f78efbb501c918e2b42b",
     "/assets/playerprofiles/884.png": "bfbca318c0f8f007a0b93ad39f48fe12096ddf9f",
     "/assets/playerprofiles/884.webp": "892850406e5881f25809973ebeb7497cc814e1e3",
-    "/es2015-polyfills.bda95d5896422d031328.js": "1612fe8f7e8e0c856f0885ff179e93363c67834f",
+    "/es2015-polyfills.8324bb31dd8aa5f2460c.js": "1612fe8f7e8e0c856f0885ff179e93363c67834f",
     "/favicon.ico": "08a8f6cf2e29602f55c8f52e1d914c3a2eccb4ff",
-    "/index.html": "9c9fe790bc5a788f6e2825b482c3cca534aacec0",
+    "/index.html": "7d2a64bf1027a7a88710762b8386b7140b028868",
     "/loader_iframe.cc4b2f0ac2af7f33d02e.png": "b036be0f052e3b3aff3861966c6d1103ab38ebc6",
-    "/main.695f944325d87eb2942c.js": "8416c85893142b6e20edfd36c681600c548e52ec",
+    "/main.590086be5b78025b10d8.js": "e08fa010b70a1c6cbbcdd6a3f09e9520d44c8a73",
     "/polyfills.3779d652866572142f03.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
-    "/runtime.cc54a3fd26ca75a27433.js": "a4d0ad1bbc8c3647b85dc9e872671af71b9b6521",
+    "/runtime.139d25209f6dc81d70e1.js": "a2a1aad54a785ad416062580ee5517407254e0d7",
     "/styles.67e0529f9977f729b65d.css": "5df9d3530e09451a1677281bce9ab2d0cd94c8eb"
   },
   "navigationUrls": [
